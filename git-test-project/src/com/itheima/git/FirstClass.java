@@ -9,12 +9,13 @@ public class FirstClass {
         System.out.println("hello first git project");
         System.out.println("hello first git project");
         System.out.println("hello first git project");
-        //hello testt
+        //hello testttt
     }
     public void test()
     {
         int i=0;
         i=10;
+        System.out.println(i);
         System.out.println(i);
     }
 }
